@@ -3,13 +3,13 @@ import asyncio
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 from config import AUTO_GCAST, AUTO_GCAST_MSG, LOG_GROUP_ID
-from ANNIEMUSIC import app
-from ANNIEMUSIC.utils.database import get_served_chats
+from SONALI import app
+from SONALI.utils.database import get_served_chats
 
 # Convert AUTO_GCAST to boolean based on "On" or "Off"
 AUTO_GCASTS = AUTO_GCAST.strip().lower() == "on"
 
-START_IMG_URLS = "https://files.catbox.moe/uodm1z.jpg"
+START_IMG_URLS = "https://files.catbox.moe/cywktj.jpg"
 
 MESSAGE = f"""**๏ ᴛʜɪs ɪs ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs + ᴄʜᴀɴɴᴇʟs ᴠᴄ. 💌
 
@@ -26,7 +26,7 @@ BUTTON = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(
                 "๏ ᴋɪᴅɴᴀᴘ ᴍᴇ ๏",
-                url=f"https://t.me/rossymusic_bot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
+                url=f"https://t.me/zoyumusicbot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
             )
         ]
     ]
