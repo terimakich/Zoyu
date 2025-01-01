@@ -32,6 +32,18 @@ sᴛɪᴄᴋᴇʀs ᴄᴏᴍᴍᴀɴᴅꜱ:
 
 /mmf ➠ ʀᴇʟᴘʏ ᴀɴʏ sᴛɪᴄᴋᴇʀ ɢᴇᴛ ᴀ ɴᴇᴡ ɴᴀᴍᴇ ʟɪᴋᴇ /mmf RAJABABU 
 '''
+    HELP_Imposter = '''```
+❖ ɪϻᴘσsᴛєʀ ❖```
+
+    ɪᴍᴘᴏsᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅs:
+
+**ʜєʀє ɪs ᴛʜє ʜєʟᴘ ғσʀ ᴛʜє ɪϻᴘσsᴛєʀ ϻσᴅυʟє:
+
+❍ /imposter on
+❍ /imposter off
+
+❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
+'''
 
     HELP_TagAll = '''Tᴀɢ
 
