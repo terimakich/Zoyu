@@ -1,4 +1,4 @@
-# MODE BY - SACHIN SANATANI
+# MODE BY - TOSU MEMON
 
 class Helper(object):
     HELP_M = '''```
