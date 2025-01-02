@@ -54,36 +54,7 @@ async def settings_mar(client, message: Message, _):
 @languageCB
 async def gib_repo(client, CallbackQuery, _):
     await CallbackQuery.edit_message_media(
-        InputMediaVideo('''
-**─────────────────────────
-│ ᴡєʟᴄσϻє ᴛσ ˹[тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible)˼ ʙσᴛ sᴛᴧᴛυs │
-─────────────────────────
-       ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
-─────────────────────────
-
-╭⎋ [sᴘσƚιϝყ ϻυsɪᴄ](https://t.me/SPOTIFY_X_MUSICROBOT) : ᴧʟɪᴠє 
-╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
-       υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
-
-╭⎋ [sυϲнι ϻυsɪᴄ](https://t.me/SUCHI_MUSIC_BOT) : ᴧʟɪᴠє 
-╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
-       υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
-
-╭⎋ [ʀσรรιє ϻυsɪᴄ](https://t.me/Rossymusic_bot) : ᴧʟɪᴠє 
-╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
-       υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
-
-╭⎋ [ȥσყυ ϻυsɪᴄ](https://t.me/zoyumusicbot) : ᴧʟɪᴠє 
-╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
-       υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
-─────────────────────────
-⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ϻє](https://t.me/The_Incricible/817)
-─────────────────────────
-⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 20 Sep 2024 
-─────────────────────────
-❍ ᴘσᴡєʀєᴅ ʙʏ ⁚ ˹ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) ˼
-─────────────────────────**
-'''),
+        InputMediaVideo("https://t.me/The_Incricible/817"),
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data=f"settingsback_helper")]]
         ),
