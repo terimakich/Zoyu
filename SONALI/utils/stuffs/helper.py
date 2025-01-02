@@ -104,43 +104,48 @@ class Helper(object):
 ❍ /math ➠ sσʟᴠєs ϻᴧᴛʜєϻᴧᴛɪᴄᴧʟ ᴘʀσʙʟєϻs ᴧηᴅ ǫυᴧᴛɪσηs
 ❍ /tgm ➠ [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 ❍ /tr ➠ ᴄᴧη ᴛʀᴧηꜱʟᴧᴛє ϻυʟᴛɪᴘʟє ʟᴧηɢυᴧɢєs
-⦿ /google ➠ sᴇᴀʀᴄʜᴇs ғᴏʀ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴏɴ ɢᴏᴏɢʟᴇ.
+❍ /google [ǫυєʀʏ] ➠ sєᴧʀᴄʜ ᴛʜє ɢσσɢʟє ғσʀ ᴛʜє ɢɪᴠєη ǫυєʀʏ
 ⦿ /gemini ➠ ᴀʙᴏᴜᴛ ᴀɴʏ ǫᴜᴇʀʏ ᴇx - /gemini lord ram.
 ⦿ /image ➠ ᴇx - /image lord ram ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴʏ ɪᴍᴀɢᴇs.
 ⦿ /reel ➠ ᴅᴏᴡɴʟᴏᴀᴅ ɪɴsᴛᴀɢʀᴀᴍ ʀᴇᴇʟs ᴇx - /reel INSTAGRAM REEL LINK
 ⦿ /afk ➠  Wɪᴛʜ ᴛʜɪs ʏᴏᴜ ᴄᴀɴ sᴇᴇ ᴀғᴛᴇʀ ʜᴏᴡ ʟᴏɴɢ ʏᴏᴜ ᴀʀᴇ ᴄᴏᴍɪɴɢ ᴏɴʟɪɴᴇ.
+
+❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
-    HELP_Action = '''Aᴄᴛɪᴏɴ
 
-Aᴄᴛɪᴏɴ ᴄᴏᴍᴍᴀɴᴅꜱ:
+    HELP_Action = '''```
+❖ ᴧϲτιοи ᴄσϻϻᴧηᴅꜱ ❖```
 
-» ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs ꜰᴏʀ Bᴀɴs & Mᴜᴛᴇ :
+**❖ ᴧναɪʟᴧʙʟᴇ ᴄσϻϻᴧηᴅs բօя ϐαи & мυτє:
 
- ❍ /kickme: kicks the user who issued the command
+ ❍ /kickme: ᴋɪᴄᴋs ᴛʜє υsєʀ ᴡʜσ ɪssυєᴅ ᴛʜє ᴄσϻϻᴧηᴅ
 
 Admins only:
- ❍ /ban <userhandle>: bans a user. (via handle, or reply)
- ❍ /sban <userhandle>: Silently ban a user. Deletes command, Replied message and doesn't reply. (via handle, or reply)
- ❍ /tban <userhandle> x(m/h/d): bans a user for x time. (via handle, or reply). m = minutes, h = hours, d = days.
- ❍ /unban <userhandle>: unbans a user. (via handle, or reply)
- ❍ /kick <userhandle>: kicks a user out of the group, (via handle, or reply)
- ❍ /mute <userhandle>: silences a user. Can also be used as a reply, muting the replied to user.
- ❍ /tmute <userhandle> x(m/h/d): mutes a user for x time. (via handle, or reply). m = minutes, h = hours, d = days.
- ❍ /unmute <userhandle>: unmutes a user. Can also be used as a reply, muting the replied to user.
+❍ /ban <userhandle> : ʙᴧηs ᴧ υsєʀ. (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ)
+❍ /sban <userhandle>: sɪʟєηᴛʟʏ ʙᴧη ᴧ υsєʀ ᴅєʟєᴛєs ᴄσϻϻᴧηᴅ, ʀєᴘʟɪєᴅ ϻєssᴧɢє ᴧηᴅ ᴅσєsη'ᴛ ʀєᴘʟʏ (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ)
+❍ /tban <userhandle> : x(ϻ/ʜ/ᴅ): ʙᴧηs ᴧ υsєʀ ғσʀ x ᴛɪϻє (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ) ϻ = ϻɪηυᴛєs, ʜ = ʜσυʀs, ᴅ = ᴅᴧʏs
+❍ /unban <userhandle> : υηʙᴧηs ᴧ υsєʀ (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ)
+❍ /kick <userhandle> : ᴋɪᴄᴋs ᴧ υsєʀ συᴛ σғ ᴛʜє ɢʀσυᴘ, (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ)
+❍ /mute <userhandle> : sɪʟєηᴄєs ᴧ υsєʀ ᴄᴧη ᴧʟsσ ʙє υsєᴅ ᴧs ᴧ ʀєᴘʟʏ, ϻυᴛɪηɢ ᴛʜє ʀєᴘʟɪєᴅ ᴛσ υsєʀ
+❍ /tmute <userhandle> x(ϻ/ʜ/ᴅ): ϻυᴛєs ᴧ υsєʀ ғσʀ x ᴛɪϻє (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ). ϻ = ϻɪηυᴛєs, ʜ = ʜσυʀs, ᴅ = ᴅᴧʏs.
+❍ /unmute <userhandle>: υηϻυᴛєs ᴧ υsєʀ ᴄᴧη ᴧʟsσ ʙє υsєᴅ ᴧs ᴧ ʀєᴘʟʏ, ϻυᴛɪηɢ ᴛʜє ʀєᴘʟɪєᴅ ᴛσ υsєʀ
 __
-𝐒ᴘᴇᴄɪᴀʟ 𝐂ᴏᴍᴍᴀɴᴅs 𝐒ᴜᴘᴘᴏʀᴛ 𝐀ʟʟ 𝐄xᴀᴍᴘʟᴇ  -  Sonali 𝚋𝚊𝚗 Sonali 𝚖𝚞𝚝𝚎 Sonali 𝚙𝚛𝚘𝚖𝚘𝚝𝚎 ..... 𝚎𝚝𝚌
+𝐒ᴘᴇᴄɪᴀʟ 𝐂ᴏᴍᴍᴀɴᴅs 𝐒ᴜᴘᴘᴏʀᴛ 𝐀ʟʟ 𝐄xᴀᴍᴘʟᴇ  -  Zoyu 𝚋𝚊𝚗 Zoyu 𝚖𝚞𝚝𝚎 Zoyu 𝚙𝚛𝚘𝚖𝚘𝚝𝚎 ..... 𝚎𝚝𝚌
+
+❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
-    HELP_Search = '''Sᴇᴀʀᴄʜ
 
-Sᴇᴀʀᴄʜ ᴄᴏᴍᴍᴀɴᴅꜱ:
+    HELP_Search = '''```
+❖ sєᴧʀᴄʜ ᴄσϻϻᴧηᴅꜱ ❖```
 
-• /google <query> : Search the google for the given query.
-• /app <query>  : Search playstore apps for the given query.
-• /stack <query>  : Search stackoverflow for the given query.
-• /image (/imgs) <query> : Get the images regarding to your query
+❍ /google [ǫυєʀʏ] : sєᴧʀᴄʜ ᴛʜє ɢσσɢʟє ғσʀ ᴛʜє ɢɪᴠєη ǫυєʀʏ
+❍ /anime [ǫυєʀʏ] : sєᴧʀᴄʜ ϻʏᴧηɪϻєʟɪsᴛ ғσʀ ᴛʜє ɢɪᴠєη ǫυєʀʏ
+❍ /stack [ǫυєʀʏ] : sєᴧʀᴄʜ sᴛᴧᴄᴋσᴠєʀғʟσᴡ ғσʀ ᴛʜє ɢɪᴠєη ǫυєʀʏ
+❍ /image (/imgs) [ǫυєʀʏ] : ɢєᴛ ᴛʜє ɪϻᴧɢєs ʀєɢᴧʀᴅɪηɢ ᴛσ ʏσυʀ ǫυєʀʏ**
+```
+❖ єxᴧϻᴘʟє : /google ᴘʏʀσɢʀᴧϻ : ʀєᴛυʀη ᴛσᴘ 5 ʀєυsʟᴛs ```
 
-Example:
-/google hindi songs: return top 5 reuslts.
+**❖ ϻᴧᴅє ʙʏ  ➠ [тнҽ-ɪиƈяɪƈɪвʟҽ](https://t.me/The_Incricible) **
 '''
     HELP_Promotion = '''Pʀᴏᴍᴏᴛɪᴏɴ
 
