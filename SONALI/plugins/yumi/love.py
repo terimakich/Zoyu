@@ -1,6 +1,6 @@
 from pyrogram import Client, filters
 import random
-from SACHIN_MUSIC import app
+from SONALI import app
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
         
@@ -26,7 +26,7 @@ def get_random_message(love_percentage):
 
 EVAA = [
     [
-        InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ", url=f"https://t.me/SUCHI_MUSIC_BOT?startgroup=true"),
+        InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ", url=f"https://t.me/ZOYUMUSICBOT?startgroup=true"),
     ],
 ]
 
